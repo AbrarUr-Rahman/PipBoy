@@ -3,5 +3,6 @@ A full sclae rendering of The FallOut Mascot PipBoy Menu Screen with Invertory P
 Technology used:
 1.Html 
 2.css
-3.JS
+3.Figma 
 4.Bootstrap 
+
